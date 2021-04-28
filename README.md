@@ -17,4 +17,4 @@ Give yourself a little credit about being brave enough to ask the question in th
 room there is a high probability that the question you want to ask, is one someone else also would like the answer but is too afriad to ask 
 it because they think it's a `Dumb Question` or `Stupid Question`
 
-So just ask the question, because every question is a great question.
+So just ask the question, because every question is a great question & a question that needs answered
