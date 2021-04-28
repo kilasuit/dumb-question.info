@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Dumb Question..... 
 
-You can use the [editor on GitHub](https://github.com/kilasuit/dumb-question.info/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+How often have you heard someone start asking a Question with either `Dumb Question` or `Stupid Question`
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If like me you work in tech this is a pretty regular thing you will hear being said in front of a question, 
+even though there is no such thing as either a dumb or a stupid question, other than a question that never gets asked.
 
-### Markdown
+If you are asking a question, especally about tech it tends to be for 1 of a few reasons
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. To learn something that you don't already know (aquiring of knowledge)
+2. To confirm you actually understand something (reaffirming of knowledge)
+3. To request clarification as an explaination wasn't clear.
 
-```markdown
-Syntax highlighted code block
+### My Ask
 
-# Header 1
-## Header 2
-### Header 3
+Give yourself a little credit about being brave enough to ask the question in the first place, especially as in a crowded 
+room there is a high probability that the question you want to ask, is one someone else also would like the answer but is too afriad to ask 
+it because they think it's a `Dumb Question` or `Stupid Question`
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kilasuit/dumb-question.info/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+So just ask the question, because every question is a great question.
