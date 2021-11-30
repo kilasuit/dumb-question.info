@@ -17,4 +17,6 @@ Give yourself a little credit about being brave enough to ask the question in th
 room there is a high probability that the question you want to ask, is one someone else also would like the answer but is too afriad to ask 
 it because they think it's a `Dumb Question` or `Stupid Question`
 
-So just ask the question, because every question is a great question & a question that needs answered
+So just ask the question, because every question is a great question & a question that needs answered!
+
+This Site is brought to you by [@ryanyates1990](https://twitter.com/ryanyates1990) - A [Microsoft MVP in Cloud and Datacentre Management](https://mvp.microsoft.com/en-us/publicprofile/5001821?fullname=ryan%20%20yates), who has always asked lots of questions & would not be where he is today if he'd been afraid to ask all those burning questions over the years.    
