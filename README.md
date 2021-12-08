@@ -20,7 +20,7 @@ it because they think it's a `Dumb Question` or `Stupid Question`
 So just ask the question, because every question is a great question & a question that needs answered!
 
 
-Even [Jeffery Snover](https://twitter.com/jsnover/) says so 
+Even [Jeffery Snover](https://twitter.com/jsnover/) says so in this interview https://evrone.com/jeffrey-snover-interview
 
 ![Permission to ask "dumb" questions](/Snover-DumbQuestion.png)
 
