@@ -19,4 +19,12 @@ it because they think it's a `Dumb Question` or `Stupid Question`
 
 So just ask the question, because every question is a great question & a question that needs answered!
 
+
+Even [Jeffery Snover](https://twitter.com/jsnover/) says so 
+
+![Permission to ask "dumb" questions](/Snover-DumbQuestion.png)
+
+
+
+
 This Site is brought to you by [@ryanyates1990](https://twitter.com/ryanyates1990) - A [Microsoft MVP in Cloud and Datacentre Management](https://mvp.microsoft.com/en-us/publicprofile/5001821?fullname=ryan%20%20yates), who has always asked lots of questions & would not be where he is today if he'd been afraid to ask all those burning questions over the years.    
