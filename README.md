@@ -14,7 +14,7 @@ If you are asking a question, especally about tech it tends to be for 1 of a few
 ### My Ask
 
 Give yourself a little credit about being brave enough to ask the question in the first place, especially as in a crowded 
-room there is a high probability that the question you want to ask, is one someone else also would like the answer but is too afriad to ask 
+room (whether a physical room or a virtual one like a forum/instant chat service) there is a high probability that the question you want to ask, is one someone else also would like the answer but is too afriad to ask 
 it because they think it's a `Dumb Question` or `Stupid Question`
 
 So just ask the question, because every question is a great question & a question that needs answered!
