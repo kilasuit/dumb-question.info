@@ -1,26 +1,24 @@
 ## Dumb Question..... 
 
-How often have you heard someone start asking a Question with either `Dumb Question` or `Stupid Question`
+Quite often, people start their question with either a `dumb` question or a `stupid` question
 
-If like me you work in tech this is a pretty regular thing you will hear being said in front of a question, 
-even though there is no such thing as either a dumb or a stupid question, other than a question that never gets asked.
+As a tech worker, this is something that you'll hear all the time in front of a question. 
+The only stupid question is one that never gets asked, regardless of whether you might think it is a dumb or stupid question.
 
-If you are asking a question, especally about tech it tends to be for 1 of a few reasons
+Most questions about technology are asked for one of a few reasons:
 
-1. To learn something that you don't already know (aquiring of knowledge)
-2. To confirm you actually understand something (reaffirming of knowledge)
-3. To request clarification as an explaination wasn't clear.
+1. Acquiring knowledge.
+2. Reaffirm your understanding of something.
+3. To ask for clarification because an explanation was unclear
 
-### My Ask
+### Here's my take on it
 
-Give yourself a little credit about being brave enough to ask the question in the first place, especially as in a crowded 
-room (whether a physical room or a virtual one like a forum/instant chat service) there is a high probability that the question you want to ask, is one someone else also would like the answer but is too afriad to ask 
-it because they think it's a `Dumb Question` or `Stupid Question`
+Give yourself some credit for asking the question in the first place. Particularly if you do it online or in person. The question you wish to ask is very likely one that others would also like answered, but are afraid to do so because they think it's a stupid question.
 
-So just ask the question, because every question is a great question & a question that needs answered!
+So ask away! Every question is a great question and one that needs answering!
 
 
-Even [Jeffery Snover](https://twitter.com/jsnover/) says so in this interview https://evrone.com/jeffrey-snover-interview
+As [Jeffery Snover](https://twitter.com/jsnover/) states in this interview: https://evrone.com/jeffrey-snover-interview
 
 ![Permission to ask "dumb" questions](/Snover-DumbQuestion.png)
 
