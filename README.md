@@ -27,4 +27,4 @@ Even [Jeffery Snover](https://twitter.com/jsnover/) says so in this interview ht
 
 
 
-This Site is brought to you by [@ryanyates1990](https://twitter.com/ryanyates1990) - A former 7 Times awardee of the Microsoft MVP in Cloud and Datacentre Management who has always asked lots of questions & would not be where he is today if he'd been afraid to ask all those burning questions over the years.    
+This Site is brought to you by [@ryanyates1990](https://twitter.com/ryanyates1990) - A former 7 Times awardee of the Microsoft MVP award in Cloud and Datacentre Management who has always asked lots of questions & would not be where he is today if he'd been afraid to ask all those burning questions over the years.    
