@@ -81,6 +81,9 @@ To help people feel more up for asking those questions that they may feel they s
   - We may have a need for using GitHub Actions in future (perhaps as an uptime checker)
   - We use GitHub Pages to host this site.
   
+- DNS
+ - we have this with godaddy at present
+
 Commit flow
 - Most changes are minor so maintainers can push to main
 - External contributors can raise a PR
