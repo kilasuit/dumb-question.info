@@ -3,7 +3,7 @@
 How often have you heard someone start asking a Question with either `Dumb Question` or `Stupid Question`
 
 If like me you work in tech this is a pretty regular thing you will hear being said in front of a question, 
-even though there is no such thing as either a dumb or a stupid question, other than a question that never gets asked.
+even though there is **no such thing** as either a dumb or a stupid question, other than a question that never gets asked.
 
 If you are asking a question, especally about tech it tends to be for 1 of a few reasons
 
