@@ -28,5 +28,6 @@ There is also this XKCD
 
 ![XKCD-1053](https://imgs.xkcd.com/comics/ten_thousand.png)
 
+> This Site is brought to you by [@ryanyates1990](https://twitter.com/ryanyates1990) - A former 7 Times awardee of the Microsoft MVP award in Cloud and Datacentre Management who has always asked lots of questions & would not be where he is today if he'd been afraid to ask all those burning questions over the years.    
 
-This Site is brought to you by [@ryanyates1990](https://twitter.com/ryanyates1990) - A former 7 Times awardee of the Microsoft MVP award in Cloud and Datacentre Management who has always asked lots of questions & would not be where he is today if he'd been afraid to ask all those burning questions over the years.    
+> It was orginally deployed to https://dumb-question.info until sadly that domain lapsed & was not able to be renewed in time.  
